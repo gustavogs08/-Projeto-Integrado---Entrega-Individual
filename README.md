@@ -2,7 +2,7 @@
 ## Números que Falam — Descobrindo o Brasil
 ### Dashboard de Crescimento Demográfico
 
-**Integrantes:** [Inserir nomes dos integrantes]  
+**Integrantes:** Arthur Lucca, Gabriel Guimarães, Gustavo Gomes, João Gabriel Sampaio e Rafeael Vieira
 **Instituição:** COTEMIG  
 **Tecnologia principal:** Python e Streamlit
 
